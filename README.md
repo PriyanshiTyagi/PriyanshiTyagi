@@ -4,14 +4,13 @@ Hi there! 🙋‍♀ I'm Priyanshi, a Computer Science Engineering student with 
 
 **Education** 
 
-* Pursuing B.Tech (CSE) at AKTU, graduating in 2024 . Consistently maintaining an impressive SGPA of 8.9 .
+* Pursuing B.Tech (CSE) at AKTU, graduating in 2024 . Consistently maintaining an impressive SGPA of 8.89 .
 
 **Technical Skills** ⚙️
 
 * Adept in Python , with a solid understanding of Object-Oriented Programming (OOPS) concepts .
 * Familiar with the Software Testing Life Cycle (STLC)  and its methodologies .
-* Possess basic knowledge of web development using HTML  and CSS ✨.
-* Exploring data analytics and its tools: Eager to learn and apply data analysis techniques using libraries like Pandas and NumPy .
+* Possess basic knowledge of web development using HTML  and CSS.
 
 **Projects** 
 
